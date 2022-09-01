@@ -1,0 +1,139 @@
+.header {
+  background-color: black;
+  color: white;
+  line-height: .1;
+  margin: auto;
+  text-align: center;
+  width: 20%;
+  border: 2px solid red;
+  padding: 8px;
+}
+
+.objective {
+  background-color: black;
+  color: white;
+  text-align: left;
+  line-height: .1;
+  padding-left: 10px;
+  border: 1px solid red;
+}
+
+.clearance {
+  background-color: black;
+  color: white;
+  text-align: left;
+  line-height: .1;
+  padding-left: 10px;
+  border: 1px solid red;
+}
+
+.expsummary {
+  background-color: black;
+  color: white;
+  text-align: left;
+  line-height: .1;
+  padding-left: 10px;
+  border: 1px solid red;
+}
+
+.job1 {
+  background-color: black;
+  color: white;
+  text-align: left;
+  line-height: .1;
+  padding-left: 10px;
+  border: 1px solid red;
+}
+
+.job2 {
+  background-color: black;
+  color: white;
+  text-align: left;
+  line-height: .1;
+  padding-left: 10px;
+  border: 1px solid red;
+}
+
+.job3 {
+  background-color: black;
+  color: white;
+  text-align: left;
+  line-height: .1;
+  padding-left: 10px;
+  border: 1px solid red;
+}
+
+.job4 {
+  background-color: black;
+  color: white;
+  text-align: left;
+  line-height: .1;
+  padding-left: 10px;
+  border: 1px solid red;
+}
+
+.job5 {
+  background-color: black;
+  color: white;
+  text-align: left;
+  line-height: .1;
+  padding-left: 10px;
+  border: 1px solid red;
+}
+
+.education {
+  background-color: black;
+  color: white;
+  text-align: left;
+  line-height: .1;
+  padding-left: 10px;
+  border: 1px solid red;
+}
+
+.certificates {
+  background-color: black;
+  color: white;
+  text-align: left;
+  line-height: .1;
+  padding-left: 10px;
+  border: 1px solid red;
+}
+
+.training {
+  background-color: black;
+  color: white;
+  text-align: left;
+  line-height: .1;
+  padding-left: 10px;
+  border: 1px solid red;
+}
+
+.organization {
+  background-color: black;
+  color: white;
+  text-align: left;
+  line-height: .1;
+  padding-left: 10px;
+  border: 1px solid red;
+}
+
+.casenumber {
+  background-color: black;
+  color: white;
+  text-align: left;
+  line-height: .1;
+  padding-left: 10px;
+  border: 1px solid red;
+  padding-left:40px;
+}
+
+body {
+  background-color: navy;
+}
+
+p, li {
+  color: white;
+  font-size: 13px;
+  line-height: 1;
+  font-family: Arial, Helvetica, sans-serif;
+}
