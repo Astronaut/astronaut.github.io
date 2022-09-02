@@ -1,139 +1,82 @@
+body {
+  /* Dracula Theme */
+  background-color: #282a36;
+  margin: 2% 20%
+}
+
 .header {
-  background-color: black;
-  color: white;
-  line-height: .1;
-  margin: auto;
-  text-align: center;
-  width: 20%;
-  border: 2px solid red;
-  padding: 8px;
+  border-bottom: dashed #ff79c6;
+  border-bottom-right-radius: 15px;
+  width: 60%;
+  text-align: left;  
+  color: #50fa7b;
+  line-height: 1%;
+  font-size: 24px;
+  font-family: cursive, Georgia, sans-serif;
+  position: absolute;
+  z-index: -1;
+}
+
+.contact {
+  width: 50%;
+  text-align: left;  
+  color: #ff5555;
+  line-height: 1%;
+  font-size: 13px;
+  font-family: Arial, Georgia, sans-serif;
+  position: absolute;
+  margin-top: 65px;
 }
 
 .objective {
-  background-color: black;
+  width: 46%;
+  text-align: left;  
   color: white;
-  text-align: left;
-  line-height: .1;
-  padding-left: 10px;
-  border: 1px solid red;
+  margin: left;
+  font: bold italic 16px cursive, Georgia, sans-serif;
+  position: absolute;
+  margin-top: 102px;
 }
 
-.clearance {
-  background-color: black;
-  color: white;
-  text-align: left;
-  line-height: .1;
-  padding-left: 10px;
-  border: 1px solid red;
+.me {
+  margin-left: 77%;
+  width: 200px;
+  height: 200px;
+  border-radius: 42% 70%;
+  padding: 4px;
+  box-shadow: 5px 5px 90px #120323;
 }
 
-.expsummary {
-  background-color: black;
-  color: white;
-  text-align: left;
-  line-height: .1;
-  padding-left: 10px;
-  border: 1px solid red;
+.section {
+  position: relative;
+  margin-top: 14px;
+  border-top: dotted #ff79c6;
+  border-bottom-right-radius: 15px;
+  width: 90%;
+  text-align: left;  
+  color: #6272a4;
+  font: bold 15px Arial Black;
+  text-transform: uppercase;
+  line-height: 1%;
 }
 
-.job1 {
-  background-color: black;
-  color: white;
-  text-align: left;
-  line-height: .1;
-  padding-left: 10px;
-  border: 1px solid red;
+.job {
+  width: 80%;
+  text-align: left;  
+  color: #50fa7b;
+  font: bold 14px Arial Black;
+  line-height: 1%;
 }
 
-.job2 {
-  background-color: black;
-  color: white;
-  text-align: left;
-  line-height: .1;
-  padding-left: 10px;
-  border: 1px solid red;
-}
-
-.job3 {
-  background-color: black;
-  color: white;
-  text-align: left;
-  line-height: .1;
-  padding-left: 10px;
-  border: 1px solid red;
-}
-
-.job4 {
-  background-color: black;
-  color: white;
-  text-align: left;
-  line-height: .1;
-  padding-left: 10px;
-  border: 1px solid red;
-}
-
-.job5 {
-  background-color: black;
-  color: white;
-  text-align: left;
-  line-height: .1;
-  padding-left: 10px;
-  border: 1px solid red;
-}
-
-.education {
-  background-color: black;
-  color: white;
-  text-align: left;
-  line-height: .1;
-  padding-left: 10px;
-  border: 1px solid red;
-}
-
-.certificates {
-  background-color: black;
-  color: white;
-  text-align: left;
-  line-height: .1;
-  padding-left: 10px;
-  border: 1px solid red;
-}
-
-.training {
-  background-color: black;
-  color: white;
-  text-align: left;
-  line-height: .1;
-  padding-left: 10px;
-  border: 1px solid red;
-}
-
-.organization {
-  background-color: black;
-  color: white;
-  text-align: left;
-  line-height: .1;
-  padding-left: 10px;
-  border: 1px solid red;
-}
-
-.casenumber {
-  background-color: black;
-  color: white;
-  text-align: left;
-  line-height: .1;
-  padding-left: 10px;
-  border: 1px solid red;
-  padding-left:40px;
-}
-
-body {
-  background-color: navy;
-}
-
-p, li {
+.text {
+  width: 85%;
+  text-align: left;  
   color: white;
   font-size: 13px;
-  line-height: 1;
-  font-family: Arial, Helvetica, sans-serif;
+  font-family: Monospace, Georgia, sans-serif;
+}
+
+footer {
+  color: #f1fa8c;
+  font: bold;
 }
